@@ -1,6 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
-filename = "author_prisha_chawla.md"
+filename = "README.md"
+f = open(filename, "r")
+fTitle = f.readline()
+f = open(filename, "w")
+f.write(fTitle+"\n")
 
 #
 URL = r'https://asianatimes.com/author/prisha-chawla/'
@@ -27,12 +31,20 @@ for article in article_containers:
     # Find the image source of the article
     image_src = article.find('span', {'class': 'img'})['data-bgsrc']
     # Print the extracted information
+    f = open(filename, "a")
+    f.write("##\t"+title+"\n")
     print('Title:', title)
+    f.write("######\t"+category+"\n")
     print('Category:', category)
+    f.write("######\t"+date+"\n")
     print('Date:', date)
+    f.write("!["+title+"]("+image_src+")\n")
     print('Image Source:', image_src)
+    f.write("###\t"+excerpt+"\n")
     print('Content/Excerpt:', excerpt)
+    f.write("[Read More Link]("+read_more_link+")\n")
     print('Read More Link:', read_more_link)
+    f.write("\n\n")
     print()
 
 #HAD TO MAKE A DIFFERENT METHOD CAUSE THIS WEBPAGE ISNT CODED PROPERLY
@@ -59,12 +71,20 @@ for article in articles:
         # Get the excerpt of the article
         excerpt = article.find('div', {'class': 'excerpt'}).text.strip()    
         # Print the extracted information
+        f = open(filename, "a")
+        f.write("##\t"+title+"\n")
         print('Title:', title)
+        f.write("######\t"+category+"\n")
         print('Category:', category)
+        f.write("######\t"+date+"\n")
         print('Date:', date)
+        f.write("!["+title+"]("+image_src+")\n")
         print('Image Source:', image_src)
+        f.write("###\t"+excerpt+"\n")
         print('Content/Excerpt:', excerpt)
+        f.write("[Read More Link]("+read_more_link+")\n")
         print('Read More Link:', read_more_link)
+        f.write("\n\n")
         print()
     except:
         break
