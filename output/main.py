@@ -10,12 +10,21 @@ path = pb.Path(__file__).parent.resolve().as_posix() #Used for Python Files
 drive, rest = os.path.splitdrive(path)
 
 filename = "/README.md"
-with open(path+filename, encoding="cp1252") as f:
-    fTitle = f.readline()
-    print(fTitle)
 
-f = open(filename, "w")
-f.write(fTitle+"\n")
+"""
+try:
+    with open(path+filename, encoding="cp1252") as f:
+        fTitle = f.readline()
+except:
+    f = open(path+filename, "r")
+    fTitle = f.readline()
+finally:
+    print(fTitle)
+    pass
+"""
+
+f = open(path+filename, "w")
+f.write("# Author-Prisha-Chawla"+"\n")
 
 #
 URL = r'https://asianatimes.com/author/prisha-chawla/'
@@ -42,7 +51,7 @@ for article in article_containers:
     # Find the image source of the article
     image_src = article.find('span', {'class': 'img'})['data-bgsrc']
     # Print the extracted information
-    f = open(filename, "a")
+    f = open(path+filename, "a")
     f.write("##\t"+title+"\n")
     print('Title:', title)
     f.write("######\t"+category+"\n")
@@ -82,7 +91,7 @@ for article in articles:
         # Get the excerpt of the article
         excerpt = article.find('div', {'class': 'excerpt'}).text.strip()    
         # Print the extracted information
-        f = open(filename, "a")
+        f = open(path+filename, "a")
         f.write("##\t"+title+"\n")
         print('Title:', title)
         f.write("######\t"+category+"\n")
