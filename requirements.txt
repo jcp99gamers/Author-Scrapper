@@ -1,2 +1,7 @@
-beautifulsoup4==4.11.2
-requests==2.25.1
+os
+time
+shutil
+datetime
+requests
+pathlib
+beautifulsoup4
