@@ -1,5 +1,12 @@
+import os
+import datetime
 import requests
+import pathlib as pb
 from bs4 import BeautifulSoup
+
+path = pb.Path(__file__).parent.resolve().as_posix() #Used for Python Files
+drive, rest = os.path.splitdrive(path)
+
 filename = "README.md"
 f = open(filename, "r")
 fTitle = f.readline()
@@ -88,3 +95,12 @@ for article in articles:
         print()
     except:
         break
+
+os.system("cd "+drive)
+os.system("cd "+path)
+os.system("git add .")
+now = datetime.datetime.now() # Get the current date and time
+formatted_date = now.strftime("%B %dth %Y %I:%M%p") # Convert to "March 7th 2023 12:38Pm" format
+commit = 'git commit -m "'+formatted_date +' Update."'
+os.system(commit)
+os.system("git push -u origin main")
