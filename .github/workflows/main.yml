@@ -28,8 +28,8 @@ jobs:
         run: |
           git config user.name "jcp99gamers"
           git config user.email "jcp99gamer@gmail.com"
-          git add README.md
-          git status --porcelain | grep "^M" && git commit -m "Update README.md" || echo "No changes to commit"
+          formatted_date=$(date +"%B %dth %Y %I:%M%p")
+          git status --porcelain | grep "^M" && git commit -m "$formatted_date Update." || echo "No changes to commit"
           git push
         working-directory: ./output
         env:
