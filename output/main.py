@@ -116,6 +116,9 @@ for article in articles:
         break
 
 f.close()
+
+'''
+#UNCOMMENT IF RUNNING ON WINDOWS
 os.chdir(path)  # Change the current working directory to the directory of the 
 # Get the parent directory of the current working directory
 parent_dir = os.path.dirname(os.getcwd())
@@ -138,6 +141,8 @@ formatted_date = now.strftime("%B %dth %Y %I:%M%p") # Convert to "March 7th 2023
 commit = 'git commit -m "'+formatted_date +' Update."'
 os.system(commit)
 os.system("git push -u origin main")
+'''
+
 print("\nDone!")
 
 
