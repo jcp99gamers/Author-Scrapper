@@ -9,9 +9,11 @@ from bs4 import BeautifulSoup
 path = pb.Path(__file__).parent.resolve().as_posix() #Used for Python Files
 drive, rest = os.path.splitdrive(path)
 
-filename = "README.md"
-f = open(filename, "r")
-fTitle = f.readline()
+filename = "/README.md"
+with open(path+filename, encoding="cp1252") as f:
+    fTitle = f.readline()
+    print(fTitle)
+
 f = open(filename, "w")
 f.write(fTitle+"\n")
 
