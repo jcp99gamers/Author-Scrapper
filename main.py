@@ -100,9 +100,9 @@ for article in articles:
         break
 
 f.close()
-
-os.system("cd "+drive)
-os.system("cd "+path)
+os.chdir(path)  # Change the current working directory to the directory of the script
+# os.system("cd "+drive)
+# os.system("cd "+path)
 time.sleep(5)
 folder_name = '__pycache__'
 try:
