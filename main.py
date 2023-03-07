@@ -1,6 +1,7 @@
 import RequirmentChecker
 import os
 import time
+import shutil
 import datetime
 import requests
 import pathlib as pb
@@ -105,6 +106,7 @@ os.system("cd "+path)
 time.sleep(5)
 folder_name = '__pycache__'
 try:
+    shutil.rmtree(folder_name)
     os.rmdir(folder_name)
     print(f"{folder_name} folder deleted successfully.")
 except OSError as e:
