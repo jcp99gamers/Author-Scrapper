@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: jcp99gamers/Author-Prisha-Chawla
-          token: ${{ secrets.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 }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -33,4 +33,4 @@ jobs:
           git push
         working-directory: ./output
         env:
-          TOKEN: ${{ secrets.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 }}
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
