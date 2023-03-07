@@ -11,6 +11,10 @@ drive, rest = os.path.splitdrive(path)
 
 filename = "/README.md"
 
+def timeConverter(timestamp_str):
+    timestamp = datetime.datetime.fromisoformat(timestamp_str)
+    formatted_timestamp = timestamp.strftime('%Y-%m-%d %H:%M:%S %Z')
+    return formatted_timestamp
 """
 try:
     with open(path+filename, encoding="cp1252") as f:
@@ -44,7 +48,8 @@ for article in article_containers:
     category_element = article.find('a', {'class': 'category'})
     category = category_element.text.strip()
     date_element = article.find('time', {'class': 'post-date'})
-    date = date_element.get('datetime')
+    datez = date_element.get('datetime')
+    date = timeConverter(datez)
     # Extract the excerpt
     excerpt_element = article.find('div', {'class': 'excerpt'})
     excerpt = excerpt_element.text.strip()
@@ -81,7 +86,8 @@ for article in articles:
         # Get the title of the article
         title = article.find('h2', {'class': 'is-title post-title'}).text.strip()    
         # Get the date of the article
-        date = article.find('time', {'class': 'post-date'})['datetime']
+        datez = article.find('time', {'class': 'post-date'})['datetime']
+        date = timeConverter(datez)
         # Find the category of the article
         category = article.find('a', {'class': 'category term-color-1'}).text.strip()
         # Find the image source of the article
