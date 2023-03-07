@@ -1,5 +1,4 @@
-shutil
-datetime
+beautifulsoup4
 requests
 pathlib
-beautifulsoup4
+datetime
