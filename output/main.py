@@ -13,7 +13,7 @@ filename = "/README.md"
 
 def timeConverter(timestamp_str):
     timestamp = datetime.datetime.fromisoformat(timestamp_str)
-    formatted_timestamp = timestamp.strftime('%d-%m-%Y %H:%M:%S IST') # %Z
+    formatted_timestamp = timestamp.strftime('%d-%m-%Y %H:%M:%S') # %Z
     return formatted_timestamp
 """
 try:
