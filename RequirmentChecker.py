@@ -1,3 +1,8 @@
+import os
+try:
+    os.system("sudo apt-get update && sudo apt-get install python3-pip && sudo -H pip3 install pathlib")
+except:
+    pass
 import subprocess
 import pkg_resources
 import pathlib as pb
