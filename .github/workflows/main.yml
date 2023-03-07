@@ -19,5 +19,5 @@ jobs:
         run: |
           pip install -r requirements.txt
       - name: Run script
-        run: python output/main.py
+        run: pythonmain.py
         working-directory: ./output

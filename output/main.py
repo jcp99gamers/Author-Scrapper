@@ -122,7 +122,7 @@ try:
 except OSError as e:
     print(f"Error: {folder_name} folder could not be deleted. {e}")
 os.system("git status")
-os.system("git add .")
+os.system("git add .\README.md") # os.system("git add .")
 now = datetime.datetime.now() # Get the current date and time
 formatted_date = now.strftime("%B %dth %Y %I:%M%p") # Convert to "March 7th 2023 12:38Pm" format
 commit = 'git commit -m "'+formatted_date +' Update."'
