@@ -29,7 +29,7 @@ jobs:
           git config user.name "jcp99gamers"
           git config user.email "jcp99gamer@gmail.com"
           git add README.md
-          git commit -m "Update README.md"
+          git status --porcelain | grep "^M" && git commit -m "Update README.md" || echo "No changes to commit"
           git push
         working-directory: ./output
         env:
