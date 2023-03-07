@@ -1,5 +1,8 @@
 name: Main Workflow
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '*/5 * * * *'
 jobs:
@@ -16,4 +19,4 @@ jobs:
         run: |
           pip install -r requirements.txt
       - name: Run script
-        run
+        run: python main.py
