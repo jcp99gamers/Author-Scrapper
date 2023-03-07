@@ -99,9 +99,16 @@ for article in articles:
         break
 
 f.close()
+
 os.system("cd "+drive)
 os.system("cd "+path)
 time.sleep(5)
+folder_name = '__pycache__'
+try:
+    os.rmdir(folder_name)
+    print(f"{folder_name} folder deleted successfully.")
+except OSError as e:
+    print(f"Error: {folder_name} folder could not be deleted. {e}")
 os.system("git status")
 os.system("git add .")
 now = datetime.datetime.now() # Get the current date and time
