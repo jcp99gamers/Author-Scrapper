@@ -1,4 +1,5 @@
 import os
+import time
 import datetime
 import requests
 import pathlib as pb
@@ -96,8 +97,10 @@ for article in articles:
     except:
         break
 
+f.close()
 os.system("cd "+drive)
 os.system("cd "+path)
+time.sleep(5)
 os.system("git add .")
 now = datetime.datetime.now() # Get the current date and time
 formatted_date = now.strftime("%B %dth %Y %I:%M%p") # Convert to "March 7th 2023 12:38Pm" format
