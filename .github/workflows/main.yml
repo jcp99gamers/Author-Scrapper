@@ -11,6 +11,20 @@ jobs:
     steps:
       - name: Install Git
         run: sudo apt-get install git
+      - name: Set up Git
+        run: |
+          git config --global user.name "jcp99gamers"
+          git config --global user.email "jcp99gamer@gmail.com"
+          git config --global credential.helper store
+          git clone https://github.com/jcp99gamers/Author-Prisha-Chawla
+          cd your-repository
+          git checkout main
+          git remote set-url origin https://github.com/jcp99gamers/Author-Prisha-Chawla
+          git fetch origin main
+          git pull origin main
+          git checkout main
+          git config --global user.email "jcp99gamer@gmail.com"
+          echo "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" | git credential-store --store= --file=.git/credentials store
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Set up Python
