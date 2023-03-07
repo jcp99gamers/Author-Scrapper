@@ -19,7 +19,7 @@ jobs:
           git clone https://github.com/jcp99gamers/Author-Prisha-Chawla
           cd your-repository
           git checkout main
-          git remote set-url origin https://github.com/jcp99gamers/Author-Prisha-Chawla
+          git remote set-url origin https://github.com/jcp99gamers/Author-Prisha-Chawla.git
           git fetch origin main
           git pull origin main
           git checkout main
