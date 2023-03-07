@@ -1,5 +1,37 @@
 # Author-Prisha-Chawla
 
+##	Amitabh Bachchan suffers serious injuries while filming.
+######	Bollywood
+######	2023-03-06T15:49:21+05:30
+![Amitabh Bachchan suffers serious injuries while filming.](https://asianatimes.com/wp-content/uploads/2023/03/The-Hindu-2.jpg)
+###	Amitabh Bachchan posted on his blog that he suffered a rib cartilage and muscle tear while working on Project K. He also posted that all his work commitments have been postponed until he is healed. Image Source – editorialge Amitabh Bachchan’s Post Fans have been worried ever since the news about megastar Amitabh Bachchan being severely injured was in the news. The star recently took to his blog to confirm the news about his injury on the sets of “Project K.” After sustaining an injury to his rib cartilage and a muscle tear, the actor reassured his fans that he…
+[Read More Link](https://asianatimes.com/amitabh-bachchan-suffers-serious-injuries/)
+
+
+##	Prince Harry says Drugs helped him deal with pain and trauma
+######	UK News
+######	2023-03-05T15:30:22+05:30
+![Prince Harry says Drugs helped him deal with pain and trauma](https://asianatimes.com/wp-content/uploads/2023/03/R-1-1-859x678.jpeg)
+###	Prince Harry has not been keeping any secrets in relation to his virginity, drug consumption, or the royal family in his new book “Spare”. He has opened up about how drug consumption helped him deal with his pain and trauma Image Source – people.com About the book “Spare” The book was eagerly awaited, and several significant televised interviews were conducted alongside it. Harry discusses his early years, the tremendous impact of losing his mother, Diana, Princess of Wales, his turbulent adolescence, and his later deployment with the British Army to Afghanistan. Harry writes about his connection with Prince William, King…
+[Read More Link](https://asianatimes.com/drugs-helped-prince-harry-deal-with-pain-trauma/)
+
+
+##	Netizens are swooning over Sidharth Malhotra’s comment on Kiara Advani’s post.
+######	Bollywood
+######	2023-03-05T15:13:35+05:30
+![Netizens are swooning over Sidharth Malhotra’s comment on Kiara Advani’s post.](https://asianatimes.com/wp-content/uploads/2023/03/siddarth-1200x675.webp)
+###	Since Sidharth Malhotra and Kiara Advani tied the knot on 7th February 2023, they have been gathering a lot of attention. The enchanting wedding of Kiara and Sidharth at the Jaisalmer Suryagarh Palace will soon be a month away. The wedding restored our faith in love because it appeared to be a scene from a fairy tale. The couple was regal in stunning ethnic clothing by Manish Malhotra. Before being married in front of their close friends and family, Sidharth and Kiara dated for a considerable amount of time. They have attracted a lot of attention since their wedding since…
+[Read More Link](https://asianatimes.com/sidharth-malhotra-comment-kiara-post/)
+
+
+##	The food crisis in North Korea takes a turn for the worst
+######	International News
+######	2023-03-04T16:07:53+05:30
+![The food crisis in North Korea takes a turn for the worst](https://asianatimes.com/wp-content/uploads/2023/03/starvation-1.jpg)
+###	There are many concerns about the food crisis in North Korea, sources say that there may be deaths due to starvation. Image Source – The Mirror According to some analysts, the nation is at its worst point since the “Arduous March” famine of the 1990s, which resulted in mass starvation and the deaths of hundreds of thousands of people, or around 3-5% of the country’s 20 million-strong population at the time. Analyst Lucas Rengifo-Keller’s Comment on food crisis in North Korea Image source – piie.com According to Lucas Rengifo-Keller, a research analyst at the Peterson Institute for International Economics, trade…
+[Read More Link](https://asianatimes.com/food-crisis-in-north-korea-worsen/)
+
+
 ##	Lawyer Alex Murdaugh verdict:  Guilty of killing wife and son
 ######	Crime
 ######	2023-03-03T14:04:07+05:30
@@ -46,38 +78,6 @@
 ![Nawazuddin Siddiqui shockingly alligated by house help](https://asianatimes.com/wp-content/uploads/2023/02/na-1536x1031.jpeg)
 ###	The Bollywood industry is quite familiar with the name Nawazuddin Siddiqui. He has appeared in some of the best movies and has demonstrated his flexibility on the screen. The actor has already made headlines for all the wrong reasons, and now he is once again making news for leaving his 20-year-old housekeeper in Dubai without any money or food. The domestic assistant traveled to Dubai in November on a tourist visa, according to the most recent reports in Mid Day. Criminal action was initiated against Nawazuddin Siddiqui after he abandons his house help in Dubai without food and salary.  Image…
 [Read More Link](https://asianatimes.com/nawazuddin-siddiqui-allegation-house-help/)
-
-
-##	SNP leadership race: Hamza Yousaf and Ash Regan launch bids 
-######	Politics
-######	2023-02-19T13:05:02+05:30
-![SNP leadership race: Hamza Yousaf and Ash Regan launch bids ](https://asianatimes.com/wp-content/uploads/2023/02/Untitled-design-37-1536x864.png)
-###	Humza Yousaf, Scottish Health Secretary, and Ash Regan, former minister, have announced they will stand to take over from Nicola Sturgeon as SNP leader and Scotland’s first minister. Image Source: Dailyrecord and The Times The two are the first to register their candidacy after they announced their plans to run in the Sunday Mail. Finance Minister Kate Forbes and deputy leader Keith Brown are two further candidates expected to run for office. On March 27, the race’s winner is scheduled to be declared HAMZA YOUSAF STATEMENTASH REGAN STATEMENT HAMZA YOUSAF STATEMENT Image source: The Scotsman When first minister Nicola Sturgeon…
-[Read More Link](https://asianatimes.com/snp-leadership-race-hamza-yousaf-and-ash-regan/)
-
-
-##	Eagerly Waiting for!! Travis Kelce and Jenna Ortega to host “Saturday Night Live”!!
-######	Entertainment
-######	2023-02-17T14:56:55+05:30
-![Eagerly Waiting for!! Travis Kelce and Jenna Ortega to host “Saturday Night Live”!!](https://asianatimes.com/wp-content/uploads/2023/02/AA17AU4J.jpeg)
-###	NBC has announced that Wednesday star Jenna Ortega will make her SNL hosting debut in March. Jenna Ortega will host Saturday Night Live the next month. According to NBC, Ortega will make her hosting debut on an episode of the sketch comedy series on March 11 and will be joined by musical guest The 1975, who will be making their second appearance for the pop band. Following the announcement, Ortega tweeted the information along with the phrase “See you then.” In addition, Kansas City Chiefs player Travis Kelce, who will be hosting for the first time, and musical performer Kelsea…
-[Read More Link](https://asianatimes.com/travis-and-jenna-ortega-host-saturday-night-live/)
-
-
-##	Ananya Panday comes to Support Rumored Boyfriend Aditya Roy Kapur at the Screening of “The Night Manager”.
-######	Entertainment
-######	2023-02-16T15:46:39+05:30
-![Ananya Panday comes to Support Rumored Boyfriend Aditya Roy Kapur at the Screening of “The Night Manager”.](https://asianatimes.com/wp-content/uploads/2023/02/Aditya-Roy-Kapur-Anaya-pandya-904x678.jpg)
-###	Ananya Panday was sighted by photographers last night when she arrived for the premiere of her alleged boyfriend Aditya Roy Kapur’s forthcoming OTT web series “The Night Manager”. The Night Manager, a web series starring Aditya Roy Kapur and Anil Kapoor, is scheduled to debut on Disney+ Hotstar on February 17. Aditya Roy Kapur, Sobhita Dhulipala, Tillotama Shome, and other members of the cast attended a screening of the program organized by the producers ahead of the launch. Celebrities including Vidya Balan, Sanjana Sanghi, and Mrunal Thakur were spotted on the red carpet during the show’s screening. Ananya Panday, who…
-[Read More Link](https://asianatimes.com/ananya-panday-rumored-boyfriend-aditya-roy-kapur/)
-
-
-##	Omegle: Young Children coaxed to expose themselves
-######	Cyber Crime
-######	2023-02-15T17:14:12+05:30
-![Omegle: Young Children coaxed to expose themselves](https://asianatimes.com/wp-content/uploads/2023/02/picture3.jpg)
-###	Warning: This story contains disturbing adult themes Omegle, launched in March 2005, is a free online chat website that allows users to chat anonymously with strangers from around the world using the names “You” and “Stranger” or “Stranger1” and “Stranger2” in case of spy mode. While the platform can be a fun way to meet new people and have conversations with strangers, it also has potential risks that users should be aware of. One of the most significant risks of Omegle is that users can remain anonymous, which means that there is no way to verify the identity of the…
-[Read More Link](https://asianatimes.com/omegle-young-children-coaxed-to-expose-themselves/)
 
 
 ##	In the midst of the G20 impasse, China declines to denounce Russia’s invasion of Ukraine.
