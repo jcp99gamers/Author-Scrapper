@@ -1,4 +1,12 @@
 # Author-Prisha-Chawla
+##	Kat and Vicky’s heartfelt review on Mrs. Chatterjee Vs Norway
+######	Bollywood
+######	16-03-2023 20:49:22 IST
+![Kat and Vicky’s heartfelt review on Mrs. Chatterjee Vs Norway](https://asianatimes.com/wp-content/uploads/2023/03/Untitled-design-2-1-1536x864.png)
+###	Katrina Kaif and Vicky Kuashal’s CommentAbout Mrs. Chatterjee Vs Norway MovieThe Real Mrs. Chatterjee’s ReactionRani Mukerji’s Husband Aditya Chopra’s Reaction Rani Mukerji’s film Mrs. Chatterjee Vs Norway premiered on Wednesday night. Vicky Kaushal and Katrina Kaif posted critiques of the movie on their Instagram accounts. We have all been eagerly waiting for Mrs Chatterjee Vs Norway to release. The movie casts the talented Rani Mukerji as Mrs. Chatterjee, the lead cast. A grand premiere ceremony was held on Wednesday, 15th of March at the Yash Raj Studio in Mumbai. The premiere of the Ashima Chibber-directed movie was attended by some…
+[Read More Link](https://asianatimes.com/kat-vickys-review-on-mrs-chatterjee-vs-norway/)
+
+
 ##	Destruct command issued after Japan’s H3 rocket fails
 ######	Aerospace
 ######	07-03-2023 14:13:32 IST
@@ -69,13 +77,5 @@
 ![Shocker!!! Hundreds of Girls being Poisoned to stop from attending school in Iran city](https://asianatimes.com/wp-content/uploads/2023/02/f.jpeg)
 ###	According to the deputy health minister, someone attempting to shut down female education is to blame for the water contamination and respiratory illnesses. Image Source – hindustantimes Due to flawed regulatory guidelines, Mahsa died.Iran’s Health Minister Admitted the foul play Girls and women are driving the revolution in Iran. Authorities are still repressing people, however, they are now focusing on schoolgirls. Students in the holy city of Qom, located south of the capital Tehran, were the first to report a wave of widespread ailments. Girls from nearby cities then became ill as well. According to Iran’s deputy health minister, they…
 [Read More Link](https://asianatimes.com/hundreds-girls-poisoned-to-stop-school-in-iran/)
-
-
-##	Will Netflix Movie “All Quiet on the Western Front” win the Best Picture, Oscar?
-######	Entertainment
-######	21-02-2023 14:17:33 IST
-![Will Netflix Movie “All Quiet on the Western Front” win the Best Picture, Oscar?](https://asianatimes.com/wp-content/uploads/2023/02/All-1200x675.jpg)
-###	The biggest surprise in an Oscar season known for its surprises—from the odd, celebrity-led campaign to nominate Andrea Riseborough for Best Actress to Paul Mescal of Normal People receiving a nomination at age 26—has been the ascension of a film that no one was interested in a few months ago. The Show “All Quiet on the Western Front” Achievements   All Quiet on the Western Front, a Netflix original, debuted in October with little excitement. It had the feel of one of those haphazard original pictures that would show up on a typical Friday morning with (it appeared) little corporate expectations…
-[Read More Link](https://asianatimes.com/netflix-movie-all-quiet-on-the-western-front-oscar/)
 
 
