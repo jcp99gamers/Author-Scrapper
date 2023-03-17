@@ -94,7 +94,7 @@ for article in articles:
         # Get the excerpt of the article
         excerpt = article.find('div', {'class': 'excerpt'}).text.strip()    
         # Print the extracted information
-        f = open(path+filename, "w")
+        f = open(path+filename, "a")
         # # Find the category of the article
         # category = article.find('a', {'class': 'category term-color-1'}).text.strip()
         # Find the image source of the article
