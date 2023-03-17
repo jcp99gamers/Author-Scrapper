@@ -72,7 +72,6 @@ for URL in url:
         print('Read More Link:', read_more_link)
         f.write("\n\n")
         print()
-
 #HAD TO MAKE A DIFFERENT METHOD CAUSE THIS WEBPAGE ISNT CODED PROPERLY
 URL = r"https://www.inpactimes.com/author/prisha-chawla/"# URL of the page to be scraped
 # Send a GET request to the URL
