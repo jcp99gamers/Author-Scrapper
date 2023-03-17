@@ -88,20 +88,21 @@ for article in articles:
         # Get the date of the article
         datez = article.find('time', {'class': 'post-date'})['datetime']
         date = timeConverter(datez)
-        # Find the category of the article
-        category = article.find('a', {'class': 'category term-color-1'}).text.strip()
-        # Find the image source of the article
         image_src = article.find('span', {'class': 'img'})['data-bgsrc']    
         #  Find the read more link of the article
         read_more_link = article.find('a', {'class': 'read-more-link read-more-btn ts-button ts-button-alt'})['href']    
         # Get the excerpt of the article
         excerpt = article.find('div', {'class': 'excerpt'}).text.strip()    
         # Print the extracted information
-        f = open(path+filename, "a")
+        f = open(path+filename, "w")
+        # # Find the category of the article
+        # category = article.find('a', {'class': 'category term-color-1'}).text.strip()
+        # Find the image source of the article
+        # # Category is Not Being Recognised Currently
+        # f.write("######\t"+category+"\n")
+        # print('Category:', category)
         f.write("##\t"+title+"\n")
         print('Title:', title)
-        f.write("######\t"+category+"\n")
-        print('Category:', category)
         f.write("######\t"+date+"\n")
         print('Date:', date)
         f.write("!["+title+"]("+image_src+")\n")
@@ -135,12 +136,12 @@ try:
 except OSError as e:
     print(f"Error: {folder_name} folder could not be deleted. {e}")
 os.system("git status")
-os.system("git add .") # os.system("git add .\README.md") 
+# os.system("git add .") # os.system("git add .\README.md") 
 now = datetime.datetime.now() # Get the current date and time
 formatted_date = now.strftime("%B %dth %Y %I:%M%p") # Convert to "March 7th 2023 12:38Pm" format
-commit = 'git commit -m "'+formatted_date +' Update."'
-os.system(commit)
-os.system("git push -u origin main")
+# commit = 'git commit -m "'+formatted_date +' Update."'
+# os.system(commit)
+# os.system("git push -u origin main")
 # '''
 
 print("\nDone!")
