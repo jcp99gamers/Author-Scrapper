@@ -142,4 +142,4 @@
 [Read More Link](https://www.inpactimes.com/2023/02/22/seattle-us-outlaw-discrimination/)
 
 
-THE END
+<p align="center">THE END</p>
